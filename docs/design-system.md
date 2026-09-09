@@ -17,25 +17,25 @@
 **-A identidade visual do DevCook utiliza uma base limpa e neutra, combinada com tons quentes vibrantes que despertam o apetite e tons frios de código que organizam a interface.**
 
 * Cor Primária (Chef Orange): #FF6B35
-* Uso: Botões principais de ação (como "Cadastrar Receita"), destaques de foco, estados ativos e elementos primários. Transmite energia, culinária e apetite.
+* *Uso: Botões principais de ação (como "Cadastrar Receita"), destaques de foco, estados ativos e elementos primários. Transmite energia, culinária e apetite.*
 * Cor Primária Escura: #E85D04
-* Uso: Estados de hover e interação nos elementos primários.
+* *Uso: Estados de hover e interação nos elementos primários.*
 * Cor Secundária (Dev Slate): #1E293B
-* Uso: Barra de navegação, cabeçalhos, botões secundários, filtros selecionados e elementos que remetem à estrutura de código/desenvolvimento.
+* *Uso: Barra de navegação, cabeçalhos, botões secundários, filtros selecionados e elementos que remetem à estrutura de código/desenvolvimento.*
 * Cor de Destaque (Amber Gold): #FFB703
-* Uso: Ícones de favoritar (estrelas), destaques de avaliações e alertas visuais de atenção.
+* *Uso: Ícones de favoritar (estrelas), destaques de avaliações e alertas visuais de atenção.*
 * Cor de Fundo (Background): #F8FAFC
-* Uso: Fundo principal das telas da aplicação.
+* *Uso: Fundo principal das telas da aplicação.*
 * Cor de Superfície: #FFFFFF
-* Uso: Cards de receita, formulários de cadastro, modais e container do painel do usuário.
+* *Uso: Cards de receita, formulários de cadastro, modais e container do painel do usuário.*
 * Cor de Superfície Elevada: #F1F5F9
-* Uso: Barra de pesquisa de ingredientes, fundo de tags/badges e áreas secundárias dentro dos cards.
+* *Uso: Barra de pesquisa de ingredientes, fundo de tags/badges e áreas secundárias dentro dos cards.*
 * Cor de Texto Principal: #0F172A
-* Uso: Títulos, nomes de receitas e textos de maior relevância visual.
+* *Uso: Títulos, nomes de receitas e textos de maior relevância visual.*
 * Cor de Texto Secundário: #64748B
-* Uso: Ingredientes, instruções de preparo, textos auxiliares e labels de formulários.
+* *Uso: Ingredientes, instruções de preparo, textos auxiliares e labels de formulários.*
 * Cor de Erro: #EF4444
-* Uso: Mensagens de validação de formulário (como senha fora do padrão ou erro no CEP) e alertas de falha de conexão com a API.
+* *Uso: Mensagens de validação de formulário (como senha fora do padrão ou erro no CEP) e alertas de falha de conexão com a API.*
 
 ### 3. Tipografia
 **-A tipografia do DevCook equilibra uma fonte moderna e amigável para a interface geral com uma fonte monoespaçada voltada à exibição rápida de parâmetros técnicos e nutricionais.**
