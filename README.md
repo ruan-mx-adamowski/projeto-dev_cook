@@ -38,3 +38,10 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 ### Cores
 <img width="333" height="185" alt="Cores" src="https://github.com/user-attachments/assets/38c38106-c8fc-44db-b272-75ee2898a71e" />
 
+## Versão Desktop
+<img width="1038" height="1600" alt="image" src="https://github.com/user-attachments/assets/906a5c7c-4386-470e-bdc8-25976ce298d2" />
+
+<img width="1600" height="1280" alt="image" src="https://github.com/user-attachments/assets/60522f48-ff88-473f-8e7f-8f5417f2a91b" />
+
+<img width="1600" height="1425" alt="image" src="https://github.com/user-attachments/assets/9337d9ba-8482-4b0c-b1b6-67608223666d" />
+
