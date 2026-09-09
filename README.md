@@ -22,6 +22,11 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 
 ---
 
+## API's
+* Definindo ainda
+
+---
+
 ## 📊 Checklist de Indicadores de Desempenho
 * [Checklist (ID's) para o Projeto](./docs/checklist.md)
 
