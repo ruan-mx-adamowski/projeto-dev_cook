@@ -39,7 +39,7 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 * Git / GitHub - Versionamento e hospedagem do projeto.
 
 ### Justificaivas
-* **Bootstrap** - Escolhi o Bootstrap, pois endentifiquei que meu site tinha um estilo mais parecido com esse Framework.
+* **Bootstrap** -  Oferece uma estrutura de grid responsiva e componentes prontos (como Modais para exibição de receitas, Cards para o catálogo e Formulários para cadastro), facilitando a implementação ágil e garantindo compatibilidade no desenvolvimento com jQuery e requisições assíncronas(e porque eu gostei mais!).
 *  **API** - Ainda estou escolhendo.
 
 ---
