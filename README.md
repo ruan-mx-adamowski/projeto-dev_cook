@@ -39,7 +39,7 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 * Git / GitHub - Versionamento e hospedagem do projeto.
 
 ### Justificaivas
-** Bootstrap* - Escolhi o Bootstrap, pois endentifiquei que meu site tinha um estilo mais parecido com esse Framework.
+* *Bootstrap* - Escolhi o Bootstrap, pois endentifiquei que meu site tinha um estilo mais parecido com esse Framework.
 *  API - Ainda estou escolhendo.
 
 ---
