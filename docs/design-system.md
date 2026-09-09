@@ -10,11 +10,11 @@
 * Neste projeto, utilizamos um framework UI e aplicamos customizações para refletir a identidade visual do DevCook, combinando uma estética gastronômica, acolhedora e moderna com a eficiência e objetividade do universo de desenvolvimento de software.
 
 ### 1. Framework Base
-* Framework escolhido: Bootstrap 5
-* Motivação: Oferece uma estrutura de grid responsiva e componentes prontos (como Modais para exibição de receitas, Cards para o catálogo e Formulários para cadastro), facilitando a implementação ágil e garantindo compatibilidade no desenvolvimento com jQuery e requisições assíncronas.
+* **Framework escolhido:** Bootstrap 5
+* **Motivação:** Oferece uma estrutura de grid responsiva e componentes prontos (como Modais para exibição de receitas, Cards para o catálogo e Formulários para cadastro), facilitando a implementação ágil e garantindo compatibilidade no desenvolvimento com jQuery e requisições assíncronas.
 
 ### 2. Paleta de Cores (Customização)
-* A identidade visual do DevCook utiliza uma base limpa e neutra, combinada com tons quentes vibrantes que despertam o apetite e tons frios de código que organizam a interface.
+**-A identidade visual do DevCook utiliza uma base limpa e neutra, combinada com tons quentes vibrantes que despertam o apetite e tons frios de código que organizam a interface.**
 
 * Cor Primária (Chef Orange): #FF6B35
 * Uso: Botões principais de ação (como "Cadastrar Receita"), destaques de foco, estados ativos e elementos primários. Transmite energia, culinária e apetite.
@@ -38,7 +38,7 @@
 * Uso: Mensagens de validação de formulário (como senha fora do padrão ou erro no CEP) e alertas de falha de conexão com a API.
 
 ### 3. Tipografia
-**A tipografia do DevCook equilibra uma fonte moderna e amigável para a interface geral com uma fonte monoespaçada voltada à exibição rápida de parâmetros técnicos e nutricionais.**
+**-A tipografia do DevCook equilibra uma fonte moderna e amigável para a interface geral com uma fonte monoespaçada voltada à exibição rápida de parâmetros técnicos e nutricionais.**
 
 * Títulos e Destaques: Plus Jakarta Sans, sans-serif (Peso: 700 a 800).
 * Textos Corridos e Formulários: Inter, sans-serif (Peso: 400 a 500).
@@ -47,7 +47,7 @@
 * Destaques: Categorias e badges utilizam texto em formato pílula com peso SemiBold para facilitar a leitura rápida (scan-first).
 
 ### 4. Diretrizes de Uso de Componentes
-**Os componentes foram desenhados para otimizar a experiência de quem precisa decidir rapidamente o que cozinhar com os ingredientes que tem em casa.**
+**-Os componentes foram desenhados para otimizar a experiência de quem precisa decidir rapidamente o que cozinhar com os ingredientes que tem em casa.**
 
 * **Botões:** Ações principais utilizam Chef Orange (#FF6B35) com texto claro. Ações secundárias ou de limpeza de filtro utilizam contorno (outline) em Dev Slate (#1E293B). O botão de favoritar utiliza estilo Ghost com o ícone de estrela em Amber Gold (#FFB703).
 * **Cards:** Utilizados para exibir as receitas do catálogo e do painel "Minhas Receitas". Possuem imagem de capa, badge de restrição alimentar, tempo de preparo, valor calórico e o ícone de favoritar.
@@ -60,7 +60,7 @@
 ---
 
 ### 5. Layout e Responsividade
-**A aplicação utiliza um sistema de espaçamento baseado em uma grade de 8px, mantendo a interface leve e organizada.**
+**-A aplicação utiliza um sistema de espaçamento baseado em uma grade de 8px, mantendo a interface leve e organizada.**
 * Espaçamento base: 8px
 * Margem do container: 20px
 * Espaçamento entre elementos: 16px
@@ -72,7 +72,7 @@
 ---
 
 ### 6. Formas e Elevação
-* A interface utiliza cantos suavemente arredondados para transmitir acolhimento, criando hierarquia visual por meio de camadas e bordas sutis.
+**-A interface utiliza cantos suavemente arredondados para transmitir acolhimento, criando hierarquia visual por meio de camadas e bordas sutis.**
 
 * Border Radius padrão: 8px (Inputs, botões e campos de texto)
 * Border Radius médio: 12px (Cards de receitas e containers de filtros)
@@ -88,7 +88,7 @@
 ---
 
 ### 7. Identidade Visual
-* A identidade do DevCook busca transmitir:
+**-A identidade do DevCook busca transmitir:**
 
 * **Sabor:** através do tom quente Chef Orange nas ações principais.
 * **Praticidade Dev:** através de um layout limpo, direto ao ponto e otimizado para rotinas corridas.
