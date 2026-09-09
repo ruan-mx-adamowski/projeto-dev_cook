@@ -78,7 +78,7 @@
 * Border Radius médio: 12px (Cards de receitas e containers de filtros)
 * Border Radius grande: 16px (Modais de detalhes da receita)
 * Elementos especiais: Pílulas de filtro e badges utilizam bordas totalmente arredondadas (9999px).
-**A profundidade é alcançada pelo contraste das superfícies e sombras suaves, evitando poluição visual.**
+* **A profundidade é alcançada pelo contraste das superfícies e sombras suaves, evitando poluição visual.**
 * Background: #F8FAFC
 * Surface: #FFFFFF
 * Surface elevada: #F1F5F9
