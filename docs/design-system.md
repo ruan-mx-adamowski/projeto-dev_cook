@@ -1,8 +1,8 @@
 # 🎨 DevCook — Design System
 
-> **Versão:** 1.0.0  
-> **Status:** Finalizado  
-> **Projeto:** DevCook (Baseado no PRD)
+> **Versão:** Beta  
+> **Status:** Em Produção  
+> **Projeto:** DevCook
 
 ---
 
