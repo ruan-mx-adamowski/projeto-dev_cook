@@ -18,7 +18,7 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 ## 🎨 Design
 
 * [Design System do Projeto](./docs/designsystem.md)
-* [Protótipo no Stitch](https://stitch.withgoogle.com/u/1/projects/13453382550039179519?pli=1)
+* [Protótipo no Stitch](https://stitch.withgoogle.com/projects/13453382550039179519)
 
 ---
 
