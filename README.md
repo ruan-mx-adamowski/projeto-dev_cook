@@ -1,6 +1,6 @@
-# 🍳 DevCook — Catálogo de Receitas e Calculadora Nutricional
+# 🍳 DevCook — Catálogo de Receitas
 
-Este projeto tem como objetivo implementar uma aplicação web responsiva para a busca de receitas inteligentes por ingredientes e cálculo de parâmetros nutricionais. O sistema permite o cadastro de receitas autorais, filtragem por categorias e restrições alimentares, cálculo visual de calorias e busca automática do endereço de origem do usuário via CEP. O frontend consome uma API local (JSON Server) para a persistência das receitas cadastradas e APIs públicas para busca de receitas reais em tempo real, consulta nutricional e autopreenchimento de endereço.
+Este projeto tem como objetivo implementar uma aplicação web responsiva para a busca de receitas inteligentes por ingredientes. O sistema permite o cadastro de receitas autorais, filtragem por categorias e restrições alimentares. O frontend consome uma API local (JSON Server) para a persistência das receitas cadastradas e APIs públicas para busca de receitas reais em tempo real, consulta nutricional e autopreenchimento de endereço.
 
 **Autor:** Ruan Matheus Adamowski Linhares
 
