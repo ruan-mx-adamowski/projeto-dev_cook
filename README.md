@@ -27,6 +27,19 @@ Para entender as regras de negócio, o escopo e a arquitetura técnica da aplica
 
 ---
 
+## 💻 Tecnologias e Dependências
+* HTML5 - Estrutura das páginas.
+* CSS3 - Estilização e responsividade.
+* Bootstrap - Framework CSS utilizado para construção dos layouts e componentes responsivos.
+* JavaScript - Lógica da aplicação e consumo das APIs.
+* jQuery - Manipulação do DOM e interatividade.
+* JSON Server - Simulação de uma API REST.
+* Node.js - Ambiente de desenvolvimento.
+* NPM - Gerenciamento de dependências.
+* Git / GitHub - Versionamento e hospedagem do projeto.
+
+---
+
 ## 📊 Checklist de Indicadores de Desempenho
 * [Checklist (ID's) para o Projeto](./docs/checklist.md)
 
