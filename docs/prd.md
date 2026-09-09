@@ -2,7 +2,7 @@
 
 ## 1. Descrição
 
-O DevCook é uma aplicação web voltada para simplificar a rotina culinária de desenvolvedores, estudantes e entusiastas da cozinha. A proposta central é resolver o dilema comum de "não saber o que cozinhar com o que tem na geladeira", oferecendo uma busca inteligente baseada em ingredientes disponíveis, além de ferramentas para calcular parâmetros nutricionais e gerenciar receitas personalizadas.
+O DevCook é uma aplicação web voltada para simplificar a rotina culinária de desenvolvedores, estudantes e entusiastas da cozinha. A proposta central é resolver o dilema comum de "não saber o que cozinhar com o que tem na geladeira", oferecendo uma busca inteligente baseada em ingredientes disponíveis, com receitas personalizadas.
 
 ## 2. Atores do Sistema
 Pessoas com rotina corrida que buscam refeições práticas, usuários interessados em acompanhar a ingestão calórica/nutricional de suas refeições e entusiastas da culinária que desejam criar e organizar seu próprio livro de receitas digital.
