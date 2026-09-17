@@ -50,6 +50,9 @@ Para mais detalhes sobre as regras de negócio, endpoints e a modelagem do banco
 
 ## 📷Telas da Aplicação
 
+## 🎨Paleta de Cores
+<img width="333" height="185" alt="Cores" src="https://github.com/user-attachments/assets/38c38106-c8fc-44db-b272-75ee2898a71e" />
+
 ## 📱Mobile
 ### Cadastro
 <img width="390" height="830" alt="screen" src="https://github.com/user-attachments/assets/e2cb268d-8fe7-4aaa-87d1-6e64dbd30bb4" />
@@ -59,9 +62,6 @@ Para mais detalhes sobre as regras de negócio, endpoints e a modelagem do banco
 
 ### Explorar
 <img width="390" height="1445" alt="screen" src="https://github.com/user-attachments/assets/4843b266-f726-4f99-b6b6-244d8badf577" />
-
-## 🎨Paleta de Cores
-<img width="333" height="185" alt="Cores" src="https://github.com/user-attachments/assets/38c38106-c8fc-44db-b272-75ee2898a71e" />
 
 ## 💻Versão Desktop
 <img width="1038" height="1600" alt="image" src="https://github.com/user-attachments/assets/906a5c7c-4386-470e-bdc8-25976ce298d2" />
