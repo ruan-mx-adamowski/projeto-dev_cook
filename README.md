@@ -58,7 +58,7 @@ Para mais detalhes sobre as regras de negócio, endpoints e a modelagem do banco
 ### Explorar
 <img width="390" height="1445" alt="screen" src="https://github.com/user-attachments/assets/4843b266-f726-4f99-b6b6-244d8badf577" />
 
-### Cores
+## 🎨Paleta de Cores
 <img width="333" height="185" alt="Cores" src="https://github.com/user-attachments/assets/38c38106-c8fc-44db-b272-75ee2898a71e" />
 
 ## Versão Desktop
