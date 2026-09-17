@@ -48,12 +48,22 @@ Para mais detalhes sobre as regras de negócio, endpoints e a modelagem do banco
 
 ---
 
-## 📷 Screenshots da Aplicação
+## 📷Telas da Aplicação
+### Cadastro
+<img width="390" height="830" alt="screen" src="https://github.com/user-attachments/assets/e2cb268d-8fe7-4aaa-87d1-6e64dbd30bb4" />
 
-### Interface Mobile
-| Cadastro | Login | Explorar |
-| :---: | :---: | :---: |
-| <img width="250" alt="Tela de Cadastro" src="https://github.com/user-attachments/assets/e2cb268d-8fe7-4aaa-87d1-6e64dbd30bb4" /> | <img width="250" alt="Tela de Login" src="https://github.com/user-attachments/assets/8fc3b0c4-0286-498c-ba76-6fa09d9c860d" /> | <img width="250" alt="Tela Explorar" src="https://github.com/user-attachments/assets/4843b266-f726-4f99-b6b6-244d8badf577" /> |
+### Login
+<img width="390" height="648" alt="screen" src="https://github.com/user-attachments/assets/8fc3b0c4-0286-498c-ba76-6fa09d9c860d" />
 
-### Paleta de Cores
-<img width="333" alt="Paleta de Cores" src="https://github.com/user-attachments/assets/38c38106-c8fc-44db-b272-75ee2898a71e" />
+### Explorar
+<img width="390" height="1445" alt="screen" src="https://github.com/user-attachments/assets/4843b266-f726-4f99-b6b6-244d8badf577" />
+
+### Cores
+<img width="333" height="185" alt="Cores" src="https://github.com/user-attachments/assets/38c38106-c8fc-44db-b272-75ee2898a71e" />
+
+## Versão Desktop
+<img width="1038" height="1600" alt="image" src="https://github.com/user-attachments/assets/906a5c7c-4386-470e-bdc8-25976ce298d2" />
+
+<img width="1600" height="1280" alt="image" src="https://github.com/user-attachments/assets/60522f48-ff88-473f-8e7f-8f5417f2a91b" />
+
+<img width="1600" height="1425" alt="image" src="https://github.com/user-attachments/assets/9337d9ba-8482-4b0c-b1b6-67608223666d" />
