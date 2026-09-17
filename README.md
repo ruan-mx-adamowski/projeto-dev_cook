@@ -36,7 +36,7 @@ Para o desenvolvimento da aplicação, foram selecionadas as seguintes tecnologi
 Para mais detalhes sobre as regras de negócio, endpoints e a modelagem do banco de dados:
 
 * [Product Requirements Document (PRD)](./docs/prd.md) — Personas, requisitos e histórias de usuário.
-* [Software Design Document (Architecture)](./docs/architecture.md) — Diagrama de banco de dados (DER em Mermaid), versão exata das dependências e fluxo de dados.
+* [Software Design Document (Architecture)](./docs/architecture.md) — Diagrama de banco de dados (DER em Mermaid), dependências e fluxo de dados.
 * [Design System do Projeto](./docs/designsystem.md) — Guia de estilos e prototipagem.
 * [Checklist de Indicadores de Desempenho](./docs/checklist.md) — Acompanhamento dos requisitos.
 
