@@ -24,9 +24,9 @@
 
 ### RA3 - Aplicar ferramentas para otimização do processo de desenvolvimento web
 
-* [ ] **ID15:** Configura ambiente com Node.js e NPM para gerenciamento de pacotes e dependências.
-* [ ] **ID16:** Utiliza boas práticas de versionamento no Git / GitHub (branch `main`, uso de `.gitignore`).
-* [ ] **ID17:** Mantém um `README.md` padronizado, conforme template da disciplina, com checklist preenchido.
+* [x] **ID15:** Configura ambiente com Node.js e NPM para gerenciamento de pacotes e dependências.
+* [x] **ID16:** Utiliza boas práticas de versionamento no Git / GitHub (branch `main`, uso de `.gitignore`).
+* [x] **ID17:** Mantém um `README.md` padronizado, conforme template da disciplina, com checklist preenchido.
 * [ ] **ID18:** Organiza arquivos do projeto de forma modular, seguindo padrão de exemplo fornecido (`/docs`, `/public`, `/src`).
 * [ ] **ID19:** Configura linters e formatadores (ESLint, Prettier) para manter qualidade e padronização do código.
 
