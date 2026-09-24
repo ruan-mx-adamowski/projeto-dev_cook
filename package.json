@@ -1,0 +1,31 @@
+{
+  "dependencies": {
+    "jquery": "^4.0.0",
+    "uuid": "^14.0.2"
+  },
+  "name": "projeto-dev_cook",
+  "version": "1.0.0",
+  "description": "O **DevCook** é uma aplicação web responsiva projetada para facilitar a busca inteligente de receitas com base em ingredientes disponíveis na despensa do usuário, com suporte a filtros por restrições alimentares e categorias culinárias. Além do catálogo global, o sistema permite o cadastro de receitas autorais da comunidade e planejamento nutricional.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruan-mx-adamowski/projeto-dev_cook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ruan-mx-adamowski/projeto-dev_cook/issues"
+  },
+  "homepage": "https://github.com/ruan-mx-adamowski/projeto-dev_cook#readme",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
